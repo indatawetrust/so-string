@@ -1,0 +1,28 @@
+{
+  "name": "so-string",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "string": "^3.3.3"
+  },
+  "devDependencies": {
+    "ava": "^1.4.1"
+  },
+  "description": "minimal for string.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indatawetrust/so-string.git"
+  },
+  "keywords": [
+    "string"
+  ],
+  "author": "indatawetrust",
+  "bugs": {
+    "url": "https://github.com/indatawetrust/so-string/issues"
+  },
+  "homepage": "https://github.com/indatawetrust/so-string#readme"
+}
